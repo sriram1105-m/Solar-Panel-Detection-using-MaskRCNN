@@ -10,3 +10,27 @@ PHOTOVOLTAIC (PV) solar energy conversion has become one of the most promising r
 
 4.	Apply the built model in different areas of interest in Colchester to generate the solar panel mapping and make a comparison for them. 
 
+**Mask RCNN**
+
+Object detection is one of the foremost vital areas in the field of Computer vision. Significant
+number of results has been produced in this field by many researchers around the world by the
+rise of Convnets and transfer learning techniques. But more advanced techniques incorporate
+Region proposal methods, Single shot methods, Anchor box methods and so on. We are
+curious to know more about Mask RCNN, but, before that we need to touch slight basics
+about segmentation.
+
+What actually is Image Segmentation?
+
+“In computer vision, image segmentation is the process of dividing an image into different regions based on the characteristics of the pixels to identify objects or boundaries to simplify an image and analyze it more efficiently.” 
+
+The Mask RCNN is further continuation with Faster RCNN, which has an additional branch to predict the segmentation masks on each RoI in a pixel-to-pixel manner.
+
+Mask RCNN consists of two parts.
+
+ Region proposal network to propose bounding boxes around the object of interest.
+
+ A binary mask classifier to generate mask for every classes in the image.
+Mask RCNN is built on top of the Faster RCNN model. In addition, Mask RCNN will return
+object mask.
+
+Compared to the ConvNet that is being used in Faster RCNN to extricate the feature maps, ResNet101 architecture is used to extract the features in the Mask RCNN.
