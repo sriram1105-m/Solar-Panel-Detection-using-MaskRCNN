@@ -49,3 +49,8 @@ annotated image from the labelling tool is shown below:
 
 ![image](https://user-images.githubusercontent.com/75327547/142772473-cf567036-4ed6-4892-abfb-3dbdf14e7bd4.png)
 
+**Algorithm Design:**
+
+![image](https://user-images.githubusercontent.com/75327547/142772510-211412c5-9bc3-445f-a630-c75d133f8292.png)
+
+
