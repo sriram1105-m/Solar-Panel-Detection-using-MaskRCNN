@@ -59,3 +59,7 @@ annotated image from the labelling tool is shown below:
 
 **NOTE: UNABLE TO UPLOAD THE ENTIRE MASKRCNN FOLDER DUE TO ITS HUGE SIZE**
 
+**OVERALL PROCESS OF THE MODEL:**
+
+![image](https://user-images.githubusercontent.com/75327547/142772646-f309bc48-b7da-48a0-8701-85077bb82f1b.png)
+
