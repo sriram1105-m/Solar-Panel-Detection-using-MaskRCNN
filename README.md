@@ -57,5 +57,5 @@ annotated image from the labelling tool is shown below:
 
 ![image](https://user-images.githubusercontent.com/75327547/142772585-856de277-fc0f-4ef1-9524-7873d142628c.png)
 
-
+**NOTE: UNABLE TO UPLOAD THE ENTIRE MASKRCNN FOLDER DUE TO ITS HUGE SIZE**
 
