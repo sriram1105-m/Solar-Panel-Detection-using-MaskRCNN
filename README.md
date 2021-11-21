@@ -55,7 +55,7 @@ annotated image from the labelling tool is shown below:
 
 **Folder Structure:**
 
-Test label
-![image](https://user-images.githubusercontent.com/75327547/142772569-7677fa69-85d2-4648-ae10-5052dc71b590.png)
+![image](https://user-images.githubusercontent.com/75327547/142772585-856de277-fc0f-4ef1-9524-7873d142628c.png)
+
 
 
