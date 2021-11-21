@@ -34,3 +34,18 @@ Mask RCNN is built on top of the Faster RCNN model. In addition, Mask RCNN will 
 object mask.
 
 Compared to the ConvNet that is being used in Faster RCNN to extricate the feature maps, ResNet101 architecture is used to extract the features in the Mask RCNN.
+
+**Labelling Software: LabelMe**
+
+The labelling tool plays a crucial role in object detection. The purpose of the labelling is to
+highlight the object of interest in the image, so that the machine will be able to read it. The
+highlighted images are then trained and then make the model to learn what each highlighted
+object in the image are. With the help of labelling software, we can develop a functional deep
+learning model. Pixel wise annotation is followed in segmentation tasks, where every pixel in
+the image is assigned to a class. 
+The software used for labelling the images in this project is ‘LabelMe’. Using this software,
+the image data are annotated with the class for solar panel detection. A sample of the
+annotated image from the labelling tool is shown below: 
+
+![image](https://user-images.githubusercontent.com/75327547/142772473-cf567036-4ed6-4892-abfb-3dbdf14e7bd4.png)
+
