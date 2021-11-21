@@ -1,0 +1,27 @@
+Installation Requirements
+
+The list of softwares are required for proper working of the model.
+
+1) Pycharm 2021.1 Community Edition
+This can be downloaded from the following link
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+2) Python version 3.6
+
+3) The Requirements.txt file should be installed in the environment created.
+
+
+Minimum System Specifications
+CPU: Intel i3 processor
+RAM: 4GB RAM
+HDD: 500GB Harddisk 
+OS: Windows 10
+
+
+Recommended System Specifications
+CPU: Intel i5 9th Gen Processor
+RAM: 8GB DDR4 RAM
+HDD: 1TB of HDD
+OS: Windows 10 or Linux or Mac
+GPU: Nvidia GTX 1650
+
