@@ -53,4 +53,9 @@ annotated image from the labelling tool is shown below:
 
 ![image](https://user-images.githubusercontent.com/75327547/142772510-211412c5-9bc3-445f-a630-c75d133f8292.png)
 
+**Folder Structure:**
+
+Test label
+![image](https://user-images.githubusercontent.com/75327547/142772569-7677fa69-85d2-4648-ae10-5052dc71b590.png)
+
 
